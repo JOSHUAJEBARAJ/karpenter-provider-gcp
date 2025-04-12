@@ -32,6 +32,7 @@ This guides breaks down into two parts
     - Kubernetes Engine Admin
     - Monitoring Admin
     - Service Account User
+    - Kubernetes Engine Cluster Admin
 
 
 4. Once you have assigned the roles to the service account, go ahead and create a new key for the service account by following this link as a guide [Creating and managing service account keys](https://cloud.google.com/iam/docs/creating-managing-service-account-keys)
